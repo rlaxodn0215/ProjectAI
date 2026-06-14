@@ -21,11 +21,11 @@ MonoBehaviour:
   SaveSlotLimit: 99
   QuickSaveSlotLimit: 18
   AutoSaveSlotLimit: 18
-  AutoSaveOnQuit: 0
+  AutoSaveOnQuit: 1
   BinarySaveFiles: 1
   ResetOnGoto: 0
   ShowLoadingUI: 1
-  EnableStateRollback: 0
+  EnableStateRollback: 1
   StateRollbackSteps: 1024
   SavedRollbackSteps: 128
   RecoveryRollback: 1

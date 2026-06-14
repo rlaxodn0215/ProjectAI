@@ -23,8 +23,8 @@ MonoBehaviour:
     Culture=neutral, PublicKeyToken=null
   CompilerLocalization: {fileID: 0}
   InitializationScript: 
-  TitleScript: 
-  StartGameScript: 
+  TitleScript: Title
+  StartGameScript: Entry
   AutoAddScripts: 1
   AutoResolvePath: 1
   HotReloadScripts: 1

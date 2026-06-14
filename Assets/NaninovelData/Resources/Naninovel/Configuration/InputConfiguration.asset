@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 152a604f7ea004245b5569f53d69586e, type: 3}
   m_Name: InputConfiguration
   m_EditorClassIdentifier: Elringus.Naninovel.Runtime::Naninovel.InputConfiguration
-  SpawnEventSystem: 0
+  SpawnEventSystem: 1
   EventSystem: {fileID: 0}
   InputActions: {fileID: 0}
   ActionMaps:
   - Naninovel
   DetectInputMode: 1
-  DisableInput: 1
+  DisableInput: 0

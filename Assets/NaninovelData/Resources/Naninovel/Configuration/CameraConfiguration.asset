@@ -21,7 +21,7 @@ MonoBehaviour:
   CustomUICameraPrefab: {fileID: 0}
   DefaultDuration: 0.35
   DefaultEasing: 0
-  DisableRendering: 1
+  DisableRendering: 0
   CaptureThumbnails: 1
   ThumbnailResolution: {x: 240, y: 140}
   HideUIInThumbnails: 0

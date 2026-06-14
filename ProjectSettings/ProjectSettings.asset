@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: e70522a0efb7dca44976c23745d744b0
+  productGUID: cae7eeb304e76484d8cf1003cb888fe8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -83,7 +83,7 @@ PlayerSettings:
   androidApplicationEntry: 2
   defaultIsNativeResolution: 1
   macRetinaSupport: 1
-  runInBackground: 1
+  runInBackground: 0
   muteOtherAudioSources: 0
   Prepare IOS For Recording: 0
   Force IOS Speakers When Recording: 0
@@ -682,10 +682,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: d3489a02-3d28-4d79-8d5b-100c79b9bf19
+  cloudProjectId: 63864551-f0f6-4272-8d7d-fdec447499b9
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: ProjectAI
+  projectName: ProjectAI 2026-06-14_19-35-07
   organizationId: tedia
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

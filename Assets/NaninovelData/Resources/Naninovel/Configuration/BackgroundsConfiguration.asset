@@ -28,7 +28,7 @@ MonoBehaviour:
         Culture=neutral, PublicKeyToken=null
       - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
         Culture=neutral, PublicKeyToken=null
-    guid: 7b1d1821-f529-4b04-9818-af4f521cc7b2
+    guid: 18a47352-d31b-434b-be19-e07c37e1b586
     customData:
       rid: -2
     Pivot: {x: 0.5, y: 0.5}
@@ -62,7 +62,7 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
         - Naninovel.ProjectResourceProvider, Elringus.Naninovel.Runtime, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      guid: e9399921-47ed-48c3-8230-a11cbfc45a70
+      guid: 0331faa8-1624-4144-ab77-d1d58b3f5fd9
       customData:
         rid: -2
       Pivot: {x: 0.5, y: 0.5}
