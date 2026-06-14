@@ -23,6 +23,11 @@
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
 
+# Auto-generated Unity assets of transient nature.
+/Assets/NaninovelData/Transient*
+# Transient artifacts of the external tools.
+/Assets/NaninovelData/.nani/Transient*
+
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
