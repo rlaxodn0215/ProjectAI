@@ -1,10 +1,16 @@
 {
     "Assets": [
         {
-            "guid": "61a9b710af58640409dbf98c82bb0640",
-            "prefix": "Characters/Kohaku",
-            "path": "Default",
-            "group": "Characters/c0a91642-e398-4dfa-ae5f-306f313f25a7"
+            "guid": "52d9b161735341b4d9a68160245cdb02",
+            "prefix": "Backgrounds/Nightmare",
+            "path": "Black",
+            "group": "Backgrounds/56883b86-0210-40d7-979c-0ff34f547ede"
+        },
+        {
+            "guid": "2e864cfedaac0744b81165797fb3f5dd",
+            "prefix": "Backgrounds/Nightmare",
+            "path": "Hospital",
+            "group": "Backgrounds/56883b86-0210-40d7-979c-0ff34f547ede"
         },
         {
             "guid": "4fa6d62f894ae6e4698bfa8af59e7942",
@@ -31,15 +37,9 @@
             "group": ""
         },
         {
-            "guid": "a7a81e5aea81ed44f9f9940e0d84ce8e",
+            "guid": "801febecda70cf047a9bd321d64669ad",
             "prefix": "Scripts",
-            "path": "Test",
-            "group": ""
-        },
-        {
-            "guid": "6f444194deb1d32419828a84f8b92b11",
-            "prefix": "Scripts",
-            "path": "Title",
+            "path": "Prologue",
             "group": ""
         },
         {

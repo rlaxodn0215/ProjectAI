@@ -1,0 +1,6 @@
+@printer Dialogue
+@back Black.Dissolve id:Nightmare
+이건 꿈이야
+나는 마음속에 소리치며 말했다
+
+@back Hospital.RadialBlur id:Nightmare time:15
